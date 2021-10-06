@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Let me Google it for you](https://lmgtfy.app/#gsc.tab=0)
